@@ -2,7 +2,7 @@
  * file: sound_track_looper_three.js
  * type: JavaScript
  * author: karbytes
- * date: 14_JUNE_2025
+ * date: 25_JUNE_2025
  * license: PUBLIC_DOMAIN
  */
 
@@ -111,6 +111,7 @@ function get_menu_options() {
         'abridged_keyboard_by_karbytes_use_case_13sep2024.mp3',
         'abridged_keyboard_sonic_weapon_toy_26dec2024.mp3',
         'acoustic_guitar_sample_by_karbytes_08april2024.mp3',
+	'altars_of_forest_by_ahriman_released_1997_downloaded_by_karbytes_24june2025.mp3',
         'alviso_slough_san_jose_california_09july2024.mp3',
 	'amplifier_original_mix_(hardtrance_1995)_by_macrocosm_downloaded_by_karbytes_26march2025.mp3',
 	'asmr_girl_whimpering_downloaded_by_karbytes_27march2025.mp3',
@@ -123,6 +124,7 @@ function get_menu_options() {
         'blackened_metallica_1988_downloaded_by_karbytes_21september2024.mp3',
         'cafe_restaurant_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3',
         'cafe_restaurant_(misophonia_edition)_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_25january2025.mp3',
+	'chaos_by_pervertum_released_1995_downloaded_by_karbytes_24june2025.mp3',
 	'chatgpt_karbytes_voicemode_16march2025.mp3',
 	'constellation_by_jim_oliver_from_healing_music_project:_radiance_[released:_13january2004].mp3',
 	'deep_summer_spacetime_continuum_sound_13june2024.mp3',
@@ -132,8 +134,9 @@ function get_menu_options() {
         'eagle_of_the_serpent_sun_from_winds_of_serpentine_ascension_by_into_oblivion_downloaded_by_karbytes_on_11april2024.mp3',
         'elevenlabs_creator_voice_clone_karbytes_generated_text_to_speech_output_05aug2024.mp3',
         'elevenlabs_text_to_speech_generation_05aug2024.mp3',
-        'för_dem_mitt_blod_setherial_released_1996_downloaded_by_karbytes_on_28july2024.mp3',
 	'freewill_startalk_march2025_downloaded_by_karbytes_30march2025.mp3',
+	'for_a_glory_of_all_evil_spirits_rise_for_victory_by_mastiphal_released_1996_downloaded_by_karbytes_24june2025.mp3',
+        'för_dem_mitt_blod_setherial_released_1996_downloaded_by_karbytes_on_28july2024.mp3',
 	'guitar_karbytes_08march2025.mp3',
 	'guitar_karbytes_14april2025.mp3',
 	'guitar_karbytes_14june2025.mp3',
@@ -151,11 +154,13 @@ function get_menu_options() {
         'instagram_karbytes_13_june_2023_part_2.mp3',
         'instagram_karbytes_28_october_2023_part_1.mp3',
         'karbytes_darknet_beats_generator_sample_03mar2025.mp3',
+	'kingdom_of_shadows_by_crimson_moon_downloaded_by_karbytes_24june2025.mp3',
         'medieval_library_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3',
         'medieval_village_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(animal_vocalizations_and_occasional_blacksmithing).mp3',
         'memories_of_children_david_darling_healing_music_project_radiance_2003_downloaded_by_karbytes_on_13june2024.mp3',
         'merced_manure_sound_files_karlina_beringer_2008_to_2009_track_0_retrieved_on_24_december_2023_[clock_shatter].mp3',
 	'moonlight_sonata_[originally_named-_piano_sonata_No._14_in_C♯_minor_“Quasi una fantasia”]_by_ludwig_van_beethoven_released_1802_downloaded_by_karbytes_30march2025.mp3',
+	'motmenneske_by_solefald_released_1996_downloaded_by_karbytes_24june2025.mp3',
 	'pig_boi_24_june_2023.mp3',
         'pig_gorl_02_april_2024_part_0.mp3',
         'pig_gorl_02_april_2024_part_1.mp3',
@@ -186,6 +191,7 @@ function get_menu_options() {
         'plaintive_droning_by_karbytes_17march2025_p3.mp3',
         'protection_racket_by_napalm_death_released_2012_downloaded_via_cobalt_tools_by_karbytes_on_17january2025.mp3',
         'pyramid_meditation_music_kings_chamber_frequencies_[downloaded_from_magnetic_minds_by_karbytes_on_16june2024].mp3',
+	'sar_ibteeloob_cab_by_xibalba_released_1994_downloaded_by_karbytes_24june2025.mp3',
         'shepardmadness_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_26march2025.mp3',
         'sicko_mode_ft_drake_travis_scott_2018_downloaded_via_aiseo_by_karbytes_25january2025.mp3',
         'solfeggio_tones_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3',
@@ -198,7 +204,8 @@ function get_menu_options() {
         'unintentional_asmr_senior_japanese_handcrafted_fountain_pen_masters_downloaded_by_karbytes_17march2025.mp3',
         'unlock_akashic_records_💫_remember_mastery_🌈_ultra_shamanic_drums_[abridged_to_ten_minutes]_lokosmotives_2018_downloaded_by_karbytes_27september2024.mp3',
 	'the_pilgrim_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(contemplative_instrumental).mp3',
-        'vintage_office_sounds_from_mynoise_dot_net_downloaded_by_karbytes_21december2024.mp3'
+        'vintage_office_sounds_from_mynoise_dot_net_downloaded_by_karbytes_21december2024.mp3',
+	'wind_of_the_black_mountains_by_forcefed_into_blasphemy_released_1992_downloaded_by_karbytes_24june2025.mp3'
     ];
     
     // Build the HTML string for each sound file
