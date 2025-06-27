@@ -2,7 +2,7 @@
  * file: sound_track_looper_three.js
  * type: JavaScript
  * author: karbytes
- * date: 25_JUNE_2025
+ * date: 27_JUNE_2025
  * license: PUBLIC_DOMAIN
  */
 
@@ -159,11 +159,13 @@ function get_menu_options() {
         'medieval_village_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(animal_vocalizations_and_occasional_blacksmithing).mp3',
         'memories_of_children_david_darling_healing_music_project_radiance_2003_downloaded_by_karbytes_on_13june2024.mp3',
         'merced_manure_sound_files_karlina_beringer_2008_to_2009_track_0_retrieved_on_24_december_2023_[clock_shatter].mp3',
+	'monkey_national_anthem_16_february_2023.mp3',
 	'moonlight_sonata_[originally_named-_piano_sonata_No._14_in_C♯_minor_“Quasi una fantasia”]_by_ludwig_van_beethoven_released_1802_downloaded_by_karbytes_30march2025.mp3',
 	'motmenneske_by_solefald_released_1996_downloaded_by_karbytes_24june2025.mp3',
 	'pig_boi_24_june_2023.mp3',
         'pig_gorl_02_april_2024_part_0.mp3',
         'pig_gorl_02_april_2024_part_1.mp3',
+	'pig_gorl_02_november_2023_part_0.mp3',
         'pig_gorl_03_november_2023_part_0.mp3',
         'pig_gorl_03_november_2023_part_1.mp3',
         'pig_gorl_06_january_2024_bonus_recording.mp3',
@@ -173,6 +175,8 @@ function get_menu_options() {
         'pig_gorl_09_november_2023_part_0.mp3',
         'pig_gorl_09_november_2023_part_1.mp3',
         'pig_gorl_09_november_2023_part_2.mp3',
+	'pig_gorl_10_december_2023_part_1.mp3',
+	'pig_gorl_10_january_2024_bonus_content.mp3',
         'pig_gorl_12july2024_p1.mp3',
         'pig_gorl_18january2025_p0.mp3',
         'pig_gorl_18january2025_p1.mp3',
@@ -181,8 +185,10 @@ function get_menu_options() {
         'pig_gorl_29_may_2023.mp3',
         'pig_gorl_30_december_2023_bonus_recording.mp3',
         'pig_gorl_30_october_2023_part_2.mp3',
+	'pig_gorl_31_october_2023_part_0.mp3',
         'pig_gorl_31august2024_p2.mp3',
-        'pig_gorl_31_october_2023_part_0.mp3',
+	'pig_gorl_depiction_02_september_2023.mp3',
+	'pig_gorl_named_jasmine_08_july_2023.mp3',
         'pig_gorl_noises_part_0_06_july_2023.mp3',
         'pig_gorl_noises_part_1_06_july_2023.mp3',
         'plaintive_droning_by_karbytes_17march2025_p0.mp3',
