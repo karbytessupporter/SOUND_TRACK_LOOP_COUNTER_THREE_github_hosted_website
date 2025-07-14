@@ -2,7 +2,7 @@
  * file: sound_track_looper_three.js
  * type: JavaScript
  * author: karbytes
- * date: 27_JUNE_2025
+ * date: 13_JULY_2025
  * license: PUBLIC_DOMAIN
  */
 
@@ -155,6 +155,7 @@ function get_menu_options() {
         'instagram_karbytes_28_october_2023_part_1.mp3',
         'karbytes_darknet_beats_generator_sample_03mar2025.mp3',
 	'kingdom_of_shadows_by_crimson_moon_downloaded_by_karbytes_24june2025.mp3',
+	'la_foret_by_gnome_released_1996_downloaded_by_karbytes_13july2025.mp3',
         'medieval_library_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3',
         'medieval_village_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(animal_vocalizations_and_occasional_blacksmithing).mp3',
         'memories_of_children_david_darling_healing_music_project_radiance_2003_downloaded_by_karbytes_on_13june2024.mp3',
