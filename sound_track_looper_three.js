@@ -2,7 +2,7 @@
  * file: sound_track_looper_three.js
  * type: JavaScript
  * author: karbytes
- * date: 11_NOVEMBER_2025
+ * date: 12_NOVEMBER_2025
  * license: PUBLIC_DOMAIN
  */
 
@@ -140,6 +140,7 @@ function get_menu_options() {
 	'for_a_glory_of_all_evil_spirits_rise_for_victory_by_mastiphal_released_1996_downloaded_by_karbytes_24june2025.mp3',
         'för_dem_mitt_blod_setherial_released_1996_downloaded_by_karbytes_on_28july2024.mp3',
 		'gong_by_brian_scott_bennett_from_healing_music_project_radiance_album_released_2004.mp3',
+		'grotesque _incantation_1990.mp3',
 	'guitar_karbytes_08march2025.mp3',
 	'guitar_karbytes_14april2025.mp3',
 	'guitar_karbytes_14june2025.mp3',
