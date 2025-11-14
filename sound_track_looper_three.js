@@ -2,7 +2,7 @@
  * file: sound_track_looper_three.js
  * type: JavaScript
  * author: karbytes
- * date: 12_NOVEMBER_2025
+ * date: 14_NOVEMBER_2025
  * license: PUBLIC_DOMAIN
  */
 
@@ -133,6 +133,8 @@ function get_menu_options() {
         'drums_karbytes_05june2025.mp3',
         'drums_karbytes_08march2025.mp3',
 		'drums_karbytes_11november2025.mp3',
+		'drums_karbytes_13november2025.mp3',
+		'drums_karbytes_14november2025.mp3',
         'eagle_of_the_serpent_sun_from_winds_of_serpentine_ascension_by_into_oblivion_downloaded_by_karbytes_on_11april2024.mp3',
         'elevenlabs_creator_voice_clone_karbytes_generated_text_to_speech_output_05aug2024.mp3',
         'elevenlabs_text_to_speech_generation_05aug2024.mp3',
