@@ -223,7 +223,8 @@ function get_menu_options() {
         'unlock_akashic_records_💫_remember_mastery_🌈_ultra_shamanic_drums_[abridged_to_ten_minutes]_lokosmotives_2018_downloaded_by_karbytes_27september2024.mp3',
 	'the_pilgrim_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_28february2025_(contemplative_instrumental).mp3',
         'vintage_office_sounds_from_mynoise_dot_net_downloaded_by_karbytes_21december2024.mp3',
-	'wind_of_the_black_mountains_by_forcefed_into_blasphemy_released_1992_downloaded_by_karbytes_24june2025.mp3'
+	'wind_of_the_black_mountains_by_forcefed_into_blasphemy_released_1992_downloaded_by_karbytes_24june2025.mp3',
+		'zephyrous_the_frozen_path_of_timeless_wisdom_and_trance_1994.mp3'
     ];
     
     // Build the HTML string for each sound file
