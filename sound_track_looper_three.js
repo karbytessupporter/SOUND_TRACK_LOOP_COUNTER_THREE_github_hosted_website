@@ -213,6 +213,7 @@ function get_menu_options() {
         'shepardmadness_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_26march2025.mp3',
         'sicko_mode_ft_drake_travis_scott_2018_downloaded_via_aiseo_by_karbytes_25january2025.mp3',
         'solfeggio_tones_by_mynoise_dot_net_customized_and_downloaded_by_karbytes_24january2025.mp3',
+        'sun_o)))_glory_black_2026.mp3',
         'the_aquatic_garden_of_extra_celestial_delights_shpongle_released_2013_downloaded_by_karbytes_29july2024.mp3',
 	'the_conjuring_by_megadeth_originally_released_1986_downloaded_by_karbytes_20february2025.mp3',
         'the_battle_fought_by_agrimonia_released_2013_downloaded_via_cobalt_tools_by_karbytes_on_17january2025.mp3',
